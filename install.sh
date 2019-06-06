@@ -20,4 +20,4 @@ pip install git+git://github.com/open-io/oio-sds.git@4.4.3
 
 
 echo how to launch bench:
-echo "./venv-ec-bench/bin/python ec-bench.py"
+echo "./venv-ec-bench/bin/python ec-test.py"
