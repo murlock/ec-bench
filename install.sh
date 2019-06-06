@@ -2,7 +2,7 @@
 
 
 # install dependencies for ubuntu 18.04 (tested with LXC)
-# apt install libisal2 liberasurecode-dev build-essential python-dev git
+# apt install libisal2 liberasurecode-dev build-essential python-dev git python-pip virtualenv
 
 # install dependencies for centos:7 (tested with docker)
 # yum install python-devel python-virtualenv git \
